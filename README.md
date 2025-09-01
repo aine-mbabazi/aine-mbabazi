@@ -10,7 +10,8 @@
 
 🚀 Goal: Build solutions that solve real-world problems
 
-📫 How to reach me: LinkedIn
+📫 How to reach me: 
+
  • Email: patainembabazi@gmail.com
 
 🔹 Tech Stack
